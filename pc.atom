@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-01-16T14:30:47-08:00</updated>
+  <updated>2017-01-24T15:02:33-08:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
+  <entry>
+    <title>[ALL] Overwatch Patch Notes – January 24, 2017</title>
+    <updated>2017-01-24T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-01-24:/forums/en/overwatch/topic/20752795395</id>
+    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Updates Hero Balance Updates Bug Fixes</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20752795395"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
   <entry>
     <title>[PC] Overwatch Patch Notes – January 12, 2017</title>
     <updated>2017-01-12T00:00:00Z</updated>
@@ -203,16 +213,6 @@
     <id>tag:us.battle.net,2016-07-06:/forums/en/overwatch/topic/20745606613</id>
     <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that many of the changes marked as [PC Only] will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. GENERAL Competitive Play [PC Only] The duration of Sudden Death has been adjusted across all maps from 1m45s to the following values: Assault: Hanamura – 1m35s Temple of Anubis – 1m30s Volskaya Industries – 1m35s Escort: Dorado – 1m30s Route 66 – 1m35s Watchpoint: Gibraltar – 1m35s Hybrid: King’s Row – 1m30s Numbani – 1m50s Note: Sudden Death duration is unchanged for Hollywood and remains at 1m45s BUG FIXES General [PC Only] Fixed a bug that prevented Overtime music from playing on Escort and Assault/Escort maps, if the payload was nearing the final checkpoint [PC Only] Fixed a bug where display settings weren’t always saved after restarting the client [PC Only] Fixed an issue that sometimes caused the in-game UI to display incorrectly at 4k resolutions [PC Only] Fixed a bug where sometimes the wrong player level would appear in the Social menu Maps [PC Only] Fixed an issue with collision not blocking line of sight on certain areas of Nepal Heroes [PC Only] Fixed a bug that caused Mercy’s Caduceus Staff beam to disconnect from its target if the player a) quickly switched between healing and damage beams by holding down both mouse buttons and/or b) was facing away from the target at the time of the switch [PC Only] Fixed even more bugs that allowed Reaper to Shadow Step to unintended locations on certain maps [PC Only] Fixed a bug that caused Winston’s melee attack during Primal Rage to inconsistently hit targets in range [PC Only] Fixed a bug that sometimes caused Zarya’s alternate fire to scale incorrectly with her damage boost modifier Competitive Play [PC Only] Fixed a bug that caused the “Top 500” icon to incorrectly display for certain players in various places throughout the game UI Fixed an issue where if you left and rejoined an in-progress Competitive Play match, the game would still track the match as a loss in your placement match history and when determining the amount of Skill Rating you receive for completing a match even if your team won Note: You must be present for the conclusion of the match to be eligible for the win. If you leave a match and do not rejoin again before it’s over, it will count as a loss both in placement match history and when calculating your Skill Rating adjustment. Fixed an issue where you would still receive a Competitive Play “leave” penalty even if you rejoined a match and completed it Note: If you leave a single Competitive Play match more than 3 times, you will receive a Competitive Play “leave” penalty even if you complete the match.</content>
     <link href="https://us.battle.net/forums/en/overwatch/topic/20745606613"></link>
-    <author>
-      <name>Lylirra</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – June 28, 2016</title>
-    <updated>2016-06-28T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-06-28:/forums/en/overwatch/topic/20745605151</id>
-    <content type="html">A new patch is now live on Widows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Features General Updates Bug Fixes Please note that many of these changes will be implemented on Xbox One and PlayStation 4 in an upcoming patch. Important: If you are experiencing technical issues with the patching process, connecting to Battle.net after installing the patch, or errors while playing a newly-patched game, please visit our support site, post in the Technical Support forum, or contact @BlizzardCS for assistance.</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20745605151"></link>
     <author>
       <name>Lylirra</name>
     </author>
