@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-01-24T15:02:33-08:00</updated>
+  <updated>2017-01-31T14:01:56-08:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
+  <entry>
+    <title>[PC] Overwatch Patch Notes – January 31, 2017</title>
+    <updated>2017-01-31T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-01-31:/forums/en/overwatch/topic/20753275781</id>
+    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: General Fixed a bug that allowed the flag to get stuck outside the standard gameplay boundaries in Capture the Rooster Fixed a bug that allowed Competitive Matches to continue indefinitely Fixed a bug that allowed Tracer and Mei to reach unintended locations outside the standard gameplay boundaries on several maps Fixed a bug preventing Reinhardt’s shield from displaying cracks at low health when the Wujing skin was equipped</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20753275781"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
   <entry>
     <title>[ALL] Overwatch Patch Notes – January 24, 2017</title>
     <updated>2017-01-24T00:00:00Z</updated>
