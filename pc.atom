@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-02-28T18:01:43-08:00</updated>
+  <updated>2017-03-03T12:00:33-08:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
+  <entry>
+    <title>[PC] Overwatch Patch Notes – March 3, 2017</title>
+    <updated>2017-03-03T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-03-03:/forums/en/overwatch/topic/20753626069</id>
+    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. HERO UPDATES: General The total damage reduction that a hero can receive while buffed (e.g. from Ana&#39;s Nano Boost and Orisa&#39;s Fortify) has been capped at 50% (formerly 70%) Bastion Ironclad Bastion now takes 20% less damage while in Configuration: Sentry or Tank (formerly 35%) Developer Comments: After introducing the new Ironclad passive ability in the last patch, Bastion felt a little too difficult to deal with. This reduction maintains his survivability while he’s transformed, but he shouldn’t feel so overbearing to enemies. Zarya Particle Barrier No longer protects Zarya from knockback Projected Barrier No longer protects allies from knockback Developer Comments: This change is actually reverting an attempted bug fix from a previous patch. Now, Zarya’s barriers no longer protect players who are hit by a knockback effect that pierces the shield. This change does not affect knockback abilities that occur outside the barriers. For example, if Zarya has a barrier on herself and is hit by one of Pharah’s concussive blasts, she won’t be affected, because the barrier blocked the effect. However, if Winston uses his ultimate and starts to swing at Zarya, it will now knock her back even if a protective barrier is active, since melee attacks pierce barriers. BUG FIXES Arcade Fixed an issue preventing heroes in 1v1 Mystery Duel from being shuffled correctly Competitive Fixed an issue preventing players from loading the Season 1 and 2 leaderboards Heroes Fixed an issue preventing D.Va’s Defense Matrix from properly blocking enemy fire that has passed through another enemy hero Fixed an issue preventing Winston’s hitbox from lining up with his pose while crouched</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20753626069"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
   <entry>
     <title>[ALL] Overwatch Patch Notes – February 28, 2017</title>
     <updated>2017-02-28T00:00:00Z</updated>
