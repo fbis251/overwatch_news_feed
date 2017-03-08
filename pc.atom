@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-03-03T12:00:33-08:00</updated>
+  <updated>2017-03-08T12:00:40-08:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
+  <entry>
+    <title>[ALL] Overwatch Patch Notes – March 8, 2017</title>
+    <updated>2017-03-08T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-03-08:/forums/en/overwatch/topic/20753436342</id>
+    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that changes marked as [Console Only] have already been implemented on PC in a previous patch. GENERAL Arcade [Console Only] 1v1 Mystery Duel game mode is now available in the Arcade Custom Games Players can no longer gain EXP from skirmishes in custom games AFK detection has been added to skirmishes in custom games</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20753436342"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
   <entry>
     <title>[PC] Overwatch Patch Notes – March 3, 2017</title>
     <updated>2017-03-03T00:00:00Z</updated>
@@ -38,21 +48,21 @@
     </author>
   </entry>
   <entry>
-    <title>[ALL] Overwatch Patch Notes – January 24, 2017</title>
-    <updated>2017-01-24T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-01-24:/forums/en/overwatch/topic/20752795395</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Updates Hero Balance Updates Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20752795395"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
     <title>[PC] Overwatch Patch Notes – January 31, 2017</title>
     <updated>2017-01-31T00:00:00Z</updated>
     <id>tag:us.battle.net,2017-01-31:/forums/en/overwatch/topic/20753275781</id>
     <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: General Fixed a bug that allowed the flag to get stuck outside the standard gameplay boundaries in Capture the Rooster Fixed a bug that allowed Competitive Matches to continue indefinitely Fixed a bug that allowed Tracer and Mei to reach unintended locations outside the standard gameplay boundaries on several maps Fixed a bug preventing Reinhardt’s shield from displaying cracks at low health when the Wujing skin was equipped</content>
     <link href="https://us.battle.net/forums/en/overwatch/topic/20753275781"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[ALL] Overwatch Patch Notes – January 24, 2017</title>
+    <updated>2017-01-24T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-01-24:/forums/en/overwatch/topic/20752795395</id>
+    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Updates Hero Balance Updates Bug Fixes</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20752795395"></link>
     <author>
       <name>Josh Engen</name>
     </author>
