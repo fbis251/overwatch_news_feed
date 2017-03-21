@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-03-08T12:00:40-08:00</updated>
+  <updated>2017-03-21T12:02:28-07:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
+  <entry>
+    <title>[ALL] Overwatch Patch Notes – March 21, 2017</title>
+    <updated>2017-03-21T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-03-21:/forums/en/overwatch/topic/20753508356</id>
+    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Updates Hero Updates Bug Fixes</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20753508356"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
   <entry>
     <title>[ALL] Overwatch Patch Notes – March 8, 2017</title>
     <updated>2017-03-08T00:00:00Z</updated>
@@ -71,7 +81,7 @@
     <title>[PC] Overwatch Patch Notes – January 12, 2017</title>
     <updated>2017-01-12T00:00:00Z</updated>
     <id>tag:us.battle.net,2017-01-12:/forums/en/overwatch/topic/20752529816</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. PATCH HIGHLIGHTS New Feature: Simple Checkout Purchasing Loot Boxes has never been easier. Our streamlined system gives players access more payment options from directly within the Overwatch client. GENERAL UPDATES General Decreased the volume of passing cars on the Oasis background in the Hero Gallery BUG FIXES Heroes Fixed a bug that was allowing Mercy to resurrect players that had fallen off the map to their death Maps Fixed a bug to prevent the garden point on Oasis from being contested/captured from the second-floor walkway above it Fixed a bug that allowed Sombra to reach unintended locations on several maps</content>
+    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. PATCH HIGHLIGHTS New Feature: Blizzard Checkout Purchasing Loot Boxes has never been easier. Our streamlined system gives players access more payment options from directly within the Overwatch client. GENERAL UPDATES General Decreased the volume of passing cars on the Oasis background in the Hero Gallery BUG FIXES Heroes Fixed a bug that was allowing Mercy to resurrect players that had fallen off the map to their death Maps Fixed a bug to prevent the garden point on Oasis from being contested/captured from the second-floor walkway above it Fixed a bug that allowed Sombra to reach unintended locations on several maps</content>
     <link href="https://us.battle.net/forums/en/overwatch/topic/20752529816"></link>
     <author>
       <name>Josh Engen</name>
@@ -243,16 +253,6 @@
     <id>tag:us.battle.net,2016-07-21:/forums/en/overwatch/topic/20747804959</id>
     <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that some of these changes may be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. GENERAL UPDATES Competitive Play Attacking teams now have 4 minutes to capture the first point on Assault maps (down from 5 minutes) Miscellaneous The “You Are Not Prepared” spray and player icon is now available for all players BUG FIXES Heroes The correct hit pip sound will now play whenever one of Ana’s darts impact with a barrier All of Ana’s in-game sounds now have proper occlusion User Interface Fixed a bug that caused “Attack” and “Defend” indicators to not always display on the hero select screen Fixed a bug that caused the scoreboard (default: Tab) to sometimes display the wrong stats if you switched hero mid-match Fixed a bug in Competitive Play that caused the numbers on the post-match skill rating bar to not increment correctly</content>
     <link href="https://us.battle.net/forums/en/overwatch/topic/20747804959"></link>
-    <author>
-      <name>Lylirra</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – July 19, 2016</title>
-    <updated>2016-07-19T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-07-19:/forums/en/overwatch/topic/20747185139</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Features General Updates Hero Balance Updates User Interface Updates Bug Fixes Please note that many of these changes will be implemented on PlayStation 4 and Xbox One in an upcoming patch. Important: If you are experiencing technical issues with the patching process, connecting to Battle.net after installing the patch, or errors while playing a newly-patched game, please visit our support site, post in the Technical Support forum, or contact @BlizzardCS for assistance.</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20747185139"></link>
     <author>
       <name>Lylirra</name>
     </author>
