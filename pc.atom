@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-03-21T12:02:28-07:00</updated>
+  <updated>2017-03-28T13:01:16-07:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
+  <entry>
+    <title>[PC] Overwatch Patch Notes – March 28, 2017</title>
+    <updated>2017-03-28T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-03-28:/forums/en/overwatch/topic/20753775700</id>
+    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. BUG FIXES General Fixed a bug that prevented the Damage Amplified stat from appearing in the scoreboard at the end of a game Heroes Fixed a bug to prevent Orisa to deploy her Supercharger inside of the payload Fixed a bug that prevented Sombra’s “BOOP” voice line from playing Orisa’s movement now slows slightly while firing in midair Developer Comments: Much like D.Va’s Fusion Cannons, Orisa’s Fusion Driver is intended to slow her movement while she is firing. However, unlike D.Va, there was an issue that prevented this slow from working while firing from the air.</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20753775700"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
   <entry>
     <title>[ALL] Overwatch Patch Notes – March 21, 2017</title>
     <updated>2017-03-21T00:00:00Z</updated>
