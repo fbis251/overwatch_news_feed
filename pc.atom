@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-03-28T13:01:16-07:00</updated>
+  <updated>2017-04-11T12:01:08-07:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
   <entry>
+    <title>[ALL] Overwatch Patch Notes – April 11, 2017</title>
+    <updated>2017-04-11T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-04-11:/forums/en/overwatch/topic/20753818008</id>
+    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussionforum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Hero Updates Bug Fixes</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20753818008"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
+  <entry>
     <title>[PC] Overwatch Patch Notes – March 28, 2017</title>
     <updated>2017-03-28T00:00:00Z</updated>
     <id>tag:us.battle.net,2017-03-28:/forums/en/overwatch/topic/20753775700</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. BUG FIXES General Fixed a bug that prevented the Damage Amplified stat from appearing in the scoreboard at the end of a game Heroes Fixed a bug to prevent Orisa to deploy her Supercharger inside of the payload Fixed a bug that prevented Sombra’s “BOOP” voice line from playing Orisa’s movement now slows slightly while firing in midair Developer Comments: Much like D.Va’s Fusion Cannons, Orisa’s Fusion Driver is intended to slow her movement while she is firing. However, unlike D.Va, there was an issue that prevented this slow from working while firing from the air.</content>
+    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. BUG FIXES General Fixed a bug that prevented the Damage Amplified stat from appearing in the scoreboard at the end of a game Heroes Fixed a bug to prevent Orisa from deploying her Supercharger inside of the payload Fixed a bug that prevented Sombra’s “BOOP” voice line from playing Orisa’s movement now slows slightly while firing in midair Developer Comments: Much like D.Va’s Fusion Cannons, Orisa’s Fusion Driver is intended to slow her movement while she is firing. However, unlike D.Va, there was an issue that prevented this slow from working while firing from the air.</content>
     <link href="https://us.battle.net/forums/en/overwatch/topic/20753775700"></link>
     <author>
       <name>Josh Engen</name>
@@ -253,16 +263,6 @@
     <id>tag:us.battle.net,2016-07-26:/forums/en/overwatch/topic/20747615932</id>
     <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that many of these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. HERO BALANCE UPDATES Ana Biotic Rifle Rate of fire increased by 20% Magazine size increased from 8 to 10 Developer Comments: While Ana has been very well received, she was showing to be a little bit weaker overall. In addition to helping her feel better to play, these changes should also increase her healing and damage output. McCree Peacemaker Primary Fire Damage falloff range decreased by 10 meters Damage falloff amount is unchanged As a result, even with this change, McCree’s effective range is still higher than it was at launch Alternate Fire Rate of fire increased by 15% Flashbang Recovery time (i.e. the amount of time before McCree can fire again) decreased from 0.5 seconds to 0.35 seconds Developer Comments: McCree’s latest range increase helped him quite a bit, but it was a bit too much in the right hands. This change weakens his long range damage somewhat, but still keeps it stronger than it has been in the recent past. The other changes combine to allow him to land more alternate fire shots on targets that he has hit with Flashbang. BUG FIXES Heroes Targets of Ana’s Sleep Dart will no longer instantly recover when damaged (recovery time is now 0.5 seconds) User Interface Fixed UI compatibility issues for ATI cards Fixed a bug that would sometimes cause Lúcio, Mei, and other models to only partially render (or disappear)</content>
     <link href="https://us.battle.net/forums/en/overwatch/topic/20747615932"></link>
-    <author>
-      <name>Lylirra</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – July 21, 2016</title>
-    <updated>2016-07-21T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-07-21:/forums/en/overwatch/topic/20747804959</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that some of these changes may be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. GENERAL UPDATES Competitive Play Attacking teams now have 4 minutes to capture the first point on Assault maps (down from 5 minutes) Miscellaneous The “You Are Not Prepared” spray and player icon is now available for all players BUG FIXES Heroes The correct hit pip sound will now play whenever one of Ana’s darts impact with a barrier All of Ana’s in-game sounds now have proper occlusion User Interface Fixed a bug that caused “Attack” and “Defend” indicators to not always display on the hero select screen Fixed a bug that caused the scoreboard (default: Tab) to sometimes display the wrong stats if you switched hero mid-match Fixed a bug in Competitive Play that caused the numbers on the post-match skill rating bar to not increment correctly</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20747804959"></link>
     <author>
       <name>Lylirra</name>
     </author>
