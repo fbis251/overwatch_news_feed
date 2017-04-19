@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-04-11T12:01:08-07:00</updated>
+  <updated>2017-04-18T19:02:06-07:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
   <entry>
+    <title>[PC] Overwatch Patch Notes – April 17, 2017</title>
+    <updated>2017-04-17T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-04-17:/forums/en/overwatch/topic/20754225379</id>
+    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES General Fixed an issue that caused the game client to crash when Overwatch was launched Arcade Fixed a bug preventing the Null Sector bots from spawning during the payload escort phase of the Overwatch Uprising brawl The Overwatch Uprising 2017 player icon will now unlock when you log into the event Firing shots while standing on the payload in Overwatch Uprising will no longer cause accuracy issues for your hero Fixed an issue preventing players from placing turrets on moving platforms (i.e. the payload) The Overwatch Uprising scorecard now correctly tracks stats from Sombra’s Hack The Overwatch Uprising scorecard now correctly tracks Ana’s healing stats The Overwatch Uprising scorecard now correctly tracks D.Va’s enemy eliminations Competitive Play Fixed an issue that could cause inaccurate results when breaking ties based on capture percentage on Assault and Assault/Escort maps Heroes Fixed an issue that allowed players to move freely when being hit by Mei’s Blizzard or Endothermic Blaster Fixed a bug causing D.Va’s hair to be rigid in the Selfie highlight intro when her Palanquin skin is equipped Fixed a bug causing Soldier: 76’s cape to clip during the Push-Ups emote when his Strike Commander Morrison, Daredevil: 76, or Stunt Rider: 76 skin was equipped Fixed a bug causing the ice on Pharah’s Frostbite skin to stretch when her Flair emote was activated</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20754225379"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
+  <entry>
     <title>[ALL] Overwatch Patch Notes – April 11, 2017</title>
     <updated>2017-04-11T00:00:00Z</updated>
     <id>tag:us.battle.net,2017-04-11:/forums/en/overwatch/topic/20753818008</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussionforum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Hero Updates Bug Fixes</content>
+    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Hero Updates Bug Fixes</content>
     <link href="https://us.battle.net/forums/en/overwatch/topic/20753818008"></link>
     <author>
       <name>Josh Engen</name>
@@ -253,16 +263,6 @@
     <id>tag:us.battle.net,2016-08-02:/forums/en/overwatch/topic/20747925082</id>
     <content type="html">A new patch is now live on PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: All Platforms Console-Specific Changes Important: If you are experiencing technical issues with the patching process, connecting to Battle.net after installing the patch, or errors while playing a newly-patched game, please visit our support site, post in the Technical Support forum, or contact @BlizzardCS for assistance.</content>
     <link href="https://us.battle.net/forums/en/overwatch/topic/20747925082"></link>
-    <author>
-      <name>Lylirra</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – July 26, 2016</title>
-    <updated>2016-07-26T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-07-26:/forums/en/overwatch/topic/20747615932</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that many of these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. HERO BALANCE UPDATES Ana Biotic Rifle Rate of fire increased by 20% Magazine size increased from 8 to 10 Developer Comments: While Ana has been very well received, she was showing to be a little bit weaker overall. In addition to helping her feel better to play, these changes should also increase her healing and damage output. McCree Peacemaker Primary Fire Damage falloff range decreased by 10 meters Damage falloff amount is unchanged As a result, even with this change, McCree’s effective range is still higher than it was at launch Alternate Fire Rate of fire increased by 15% Flashbang Recovery time (i.e. the amount of time before McCree can fire again) decreased from 0.5 seconds to 0.35 seconds Developer Comments: McCree’s latest range increase helped him quite a bit, but it was a bit too much in the right hands. This change weakens his long range damage somewhat, but still keeps it stronger than it has been in the recent past. The other changes combine to allow him to land more alternate fire shots on targets that he has hit with Flashbang. BUG FIXES Heroes Targets of Ana’s Sleep Dart will no longer instantly recover when damaged (recovery time is now 0.5 seconds) User Interface Fixed UI compatibility issues for ATI cards Fixed a bug that would sometimes cause Lúcio, Mei, and other models to only partially render (or disappear)</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20747615932"></link>
     <author>
       <name>Lylirra</name>
     </author>
