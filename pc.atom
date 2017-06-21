@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-06-06T16:01:22-07:00</updated>
+  <updated>2017-06-21T08:01:24-07:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
+  <entry>
+    <title>[ALL] Overwatch Patch Notes – June 20, 2017</title>
+    <updated>2017-06-20T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-06-20:/forums/en/overwatch/topic/20756815859</id>
+    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Hero Updates User Interface Updates Bug Fixes</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20756815859"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
   <entry>
     <title>[PC] Overwatch Patch Notes – June 6, 2017</title>
     <updated>2017-06-06T00:00:00Z</updated>
@@ -265,16 +275,6 @@
     <link href="https://us.battle.net/forums/en/overwatch/topic/20749157415"></link>
     <author>
       <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – August 16, 2016</title>
-    <updated>2016-08-16T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-08-16:/forums/en/overwatch/topic/20748545700</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: Fixed a bug that was blocking spectator cameras from passing through some doors and force fields</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20748545700"></link>
-    <author>
-      <name>Lylirra</name>
     </author>
   </entry>
 </feed>
