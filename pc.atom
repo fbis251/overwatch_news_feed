@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-06-21T08:01:24-07:00</updated>
+  <updated>2017-08-08T20:26:02-07:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
+  <entry>
+    <title>[ALL] Overwatch Patch Notes – August 8, 2017</title>
+    <updated>2017-08-08T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-08-08:/forums/en/overwatch/topic/20758606654</id>
+    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. PATCH HIGHLIGHTS New Seasonal Event: Summer Games 2017 The Summer Games return for more fun in the sun! From now until August 28, players can unlock a collection of brand new seasonal items, along with their favorites from last year’s Summer Games event. We’re also celebrating the spirit of competition with a new stadium, leaderboards, and Competitive Play mode specifically for Lúcioball. To learn more about the Summer Games, click here. General [PC] Fixed an issue that could cause Reinhardt’s Charge to push characters through walls [PC] Fixed a bug that allowed Sombra to reach unintended locations on Anubis</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20758606654"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[ALL] Overwatch Patch Notes - August 1, 2017</title>
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <id>tag:us.battle.net,1969-12-31:/forums/en/overwatch/topic/20758425863</id>
+    <content type="html">OVERWATCH PATCH NOTES - August 1, 2017 A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. BUG FIXES General Fixed a bug that prevented the party leader from entering the Training Menu Fixed a bug that occasionally caused crashes when players were attempting to purchase loot boxes Heroes Fixed several bugs causing Doomfist skins to render incorrectly Fixed a bug that occasionally prevented Reinhardt’s Charge from knocking back enemies</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20758425863"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[ALL] Overwatch Patch Notes – July 27, 2017</title>
+    <updated>2017-07-27T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-07-27:/forums/en/overwatch/topic/20758326379</id>
+    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Hero Updates Bug Fixes</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20758326379"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[PC] Overwatch Patch Notes – June 27, 2017</title>
+    <updated>2017-06-27T00:00:00Z</updated>
+    <id>tag:us.battle.net,2017-06-27:/forums/en/overwatch/topic/20757376265</id>
+    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES Heroes Fixed a bug that prevented Pharah’s “I am the rocket queen” voice line from playing correctly Fixed a bug that allowed Orisa’s ultimate to charge while her Supercharger was deployed</content>
+    <link href="https://us.battle.net/forums/en/overwatch/topic/20757376265"></link>
+    <author>
+      <name>Josh Engen</name>
+    </author>
+  </entry>
   <entry>
     <title>[ALL] Overwatch Patch Notes – June 20, 2017</title>
     <updated>2017-06-20T00:00:00Z</updated>
@@ -263,16 +303,6 @@
     <id>tag:us.battle.net,2016-09-23:/forums/en/overwatch/topic/20749355673</id>
     <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: Fixed an issue that was incorrectly displaying a top 500 icon for certain players, even though they had not yet broken into the top 500</content>
     <link href="https://us.battle.net/forums/en/overwatch/topic/20749355673"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – September 13, 2016</title>
-    <updated>2016-09-13T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-09-13:/forums/en/overwatch/topic/20749157415</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. GENERAL UPDATES General Players should now see fewer Plays of the Game featuring Mercy’s Resurrection ability Increased payload speed on Eichenwalde USER INTERFACE UPDATES General A new Competitive Tier legend has been added to the Competitive Play info screen A new Match Complete splash screen has replaced the former Round Complete splash screen in competitive matches BUG FIXES General Fixed a bug which prevented the Triple Kill announcement from being played after a kill streak of 3 or more Fixed several issues causing some players obtain a skill rating that&#39;s higher than their actual rating Note: A very small number of people were affected by these issues, but those who were affected will have their skill rating adjusted appropriately Heroes Fixed a bug causing the wrong arrow to be shown on Hanzo&#39;s bow, or disappear entirely (the correct arrow would still be fired) Fixed a bug preventing Junkrat’s RIP-Tire from receiving credit for kills, achievements, and other stats Maps Fixed a bug allowing Reaper to Shadow Step to unintended locations on Hollywood</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20749157415"></link>
     <author>
       <name>Josh Engen</name>
     </author>
