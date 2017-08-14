@@ -1,310 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://us.battle.net/forums/en/overwatch/21446648/</id>
-  <updated>2017-08-08T20:26:02-07:00</updated>
+  <updated>2017-08-13T17:37:14-07:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://us.battle.net/forums/en/overwatch/21446648/"></link>
   <author>
     <name>Blizzard</name>
   </author>
   <entry>
-    <title>[ALL] Overwatch Patch Notes – August 8, 2017</title>
-    <updated>2017-08-08T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-08-08:/forums/en/overwatch/topic/20758606654</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. PATCH HIGHLIGHTS New Seasonal Event: Summer Games 2017 The Summer Games return for more fun in the sun! From now until August 28, players can unlock a collection of brand new seasonal items, along with their favorites from last year’s Summer Games event. We’re also celebrating the spirit of competition with a new stadium, leaderboards, and Competitive Play mode specifically for Lúcioball. To learn more about the Summer Games, click here. General [PC] Fixed an issue that could cause Reinhardt’s Charge to push characters through walls [PC] Fixed a bug that allowed Sombra to reach unintended locations on Anubis</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20758606654"></link>
+    <title>Overwatch Patch Notes – August 10, 2017</title>
+    <updated>2017-08-10T00:00:00-07:00</updated>
+    <id>tag:playoverwatch.com,2017-08-10:/en-us/game/patch-notes/pc/</id>
+    <content type="html">&lt;p&gt;A new patch is now live on Windows PC. Read below to learn more about the latest changes.&lt;/p&gt;&#xA;&lt;p&gt;To share your feedback, please post in the &lt;a href=&#34;http://us.battle.net/forums/en/overwatch/22813879/&#34; target=&#34;_blank&#34;&gt;General Discussion&lt;/a&gt; forum&lt;br/&gt;&#xA;For a list of known issues, visit our &lt;a href=&#34;http://us.battle.net/forums/en/overwatch/22813881/&#34; target=&#34;_blank&#34;&gt;Bug Report&lt;/a&gt; forum.&lt;br/&gt;&#xA;For troubleshooting assistance, visit our &lt;a href=&#34;http://us.battle.net/forums/en/overwatch/22813880/&#34; target=&#34;_blank&#34;&gt;Technical Support&lt;/a&gt; forum.&lt;/p&gt;&#xA;&lt;p&gt;Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date.&lt;/p&gt;&#xA;&lt;h2&gt;BUG FIXES&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arcade&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed a bug that prevented players from grouping up in competitive Lúcioball&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</content>
+    <link href="https://playoverwatch.com/en-us/game/patch-notes/pc/"></link>
     <author>
-      <name>Josh Engen</name>
+      <name>Overwatch PC Team</name>
     </author>
   </entry>
   <entry>
-    <title>[ALL] Overwatch Patch Notes - August 1, 2017</title>
-    <updated>1969-12-31T16:00:00-08:00</updated>
-    <id>tag:us.battle.net,1969-12-31:/forums/en/overwatch/topic/20758425863</id>
-    <content type="html">OVERWATCH PATCH NOTES - August 1, 2017 A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. BUG FIXES General Fixed a bug that prevented the party leader from entering the Training Menu Fixed a bug that occasionally caused crashes when players were attempting to purchase loot boxes Heroes Fixed several bugs causing Doomfist skins to render incorrectly Fixed a bug that occasionally prevented Reinhardt’s Charge from knocking back enemies</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20758425863"></link>
+    <title>Overwatch Patch Notes – August 8, 2017</title>
+    <updated>2017-08-08T00:00:00-07:00</updated>
+    <id>tag:playoverwatch.com,2017-08-08:/en-us/game/patch-notes/pc/</id>
+    <content type="html">&lt;p&gt;A new patch is now live on Windows PC. Read below to learn more about the latest changes.&lt;/p&gt;&#xA;&lt;p&gt;To share your feedback, please post in the &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813879/&#34;&gt;General Discussion&lt;/a&gt; forum.&lt;br/&gt;&#xA;For a list of known issues, visit our &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813881/&#34;&gt;Bug Report&lt;/a&gt; forum.&lt;br/&gt;&#xA;For troubleshooting assistance, visit our &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813880/&#34;&gt;Technical Support&lt;/a&gt; forum.&lt;/p&gt;&#xA;&lt;h2&gt;PATCH HIGHLIGHTS&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;New Seasonal Event: Summer Games 2017&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Summer Games return for more fun in the sun! From now until August 28, players can unlock a collection of brand new seasonal items, along with their favorites from last year’s Summer Games event. We’re also celebrating the spirit of competition with a new stadium, leaderboards, and Competitive Play mode specifically for Lúcioball.&lt;/p&gt;&#xA;&lt;p&gt;To learn more about the Summer Games, &lt;a href=&#34;https://playoverwatch.com/events/summer-games&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2&gt;GENERAL&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed an issue that could cause Reinhardt’s Charge to push characters through walls&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that allowed Sombra to reach unintended locations on Anubis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</content>
+    <link href="https://playoverwatch.com/en-us/game/patch-notes/pc/"></link>
     <author>
-      <name>Josh Engen</name>
+      <name>Overwatch PC Team</name>
     </author>
   </entry>
   <entry>
-    <title>[ALL] Overwatch Patch Notes – July 27, 2017</title>
-    <updated>2017-07-27T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-07-27:/forums/en/overwatch/topic/20758326379</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Hero Updates Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20758326379"></link>
+    <title>Overwatch Patch Notes – August 1, 2017</title>
+    <updated>2017-08-01T00:00:00-07:00</updated>
+    <id>tag:playoverwatch.com,2017-08-01:/en-us/game/patch-notes/pc/</id>
+    <content type="html">&lt;p&gt;A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes.&lt;/p&gt;&#xA;&lt;p&gt;To share your feedback, please post in the &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813879/&#34;&gt;General Discussion&lt;/a&gt; forum.&lt;br/&gt;&#xA;For a list of known issues, visit our &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813881/&#34;&gt;Bug Report&lt;/a&gt; forum.&lt;br/&gt;&#xA;For troubleshooting assistance, visit our &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813880/&#34;&gt;Technical Support&lt;/a&gt; forum.&lt;/p&gt;&#xA;&lt;h2&gt;BUG FIXES&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed a bug that prevented the party leader from entering the Training Menu&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that occasionally caused crashes when players were attempting to purchase loot boxes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Heroes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed several bugs causing Doomfist skins to render incorrectly&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that occasionally prevented Reinhardt’s Charge from knocking back enemies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</content>
+    <link href="https://playoverwatch.com/en-us/game/patch-notes/pc/"></link>
     <author>
-      <name>Josh Engen</name>
+      <name>Overwatch PC Team</name>
     </author>
   </entry>
   <entry>
-    <title>[PC] Overwatch Patch Notes – June 27, 2017</title>
-    <updated>2017-06-27T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-06-27:/forums/en/overwatch/topic/20757376265</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES Heroes Fixed a bug that prevented Pharah’s “I am the rocket queen” voice line from playing correctly Fixed a bug that allowed Orisa’s ultimate to charge while her Supercharger was deployed</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20757376265"></link>
+    <title>Overwatch Patch Notes – July 27, 2017</title>
+    <updated>2017-07-27T00:00:00-07:00</updated>
+    <id>tag:playoverwatch.com,2017-07-27:/en-us/game/patch-notes/pc/</id>
+    <content type="html">&lt;p&gt;A new patch is now live on Windows PC. Read below to learn more about the latest changes.&lt;/p&gt;&#xA;&lt;p&gt;To share your feedback, please post in the &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813879/&#34;&gt;General Discussion&lt;/a&gt; forum.&lt;br/&gt;&#xA;For a list of known issues, visit our &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813881/&#34;&gt;Bug Report&lt;/a&gt; forum.&lt;br/&gt;&#xA;For troubleshooting assistance, visit our &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813880/&#34;&gt;Technical Support&lt;/a&gt; forum.&lt;/p&gt;&#xA;&lt;h2&gt;PATCH HIGHLIGHTS&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;New Hero: Doomfist (Offense):&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Equipped with charisma and ambition, Doomfist is a consummate tactician and one of the leaders of Talon: literally throwing down his gauntlet as he joins the fight. From his base in Nigeria, Doomfist is a commanding offense hero equipped with hard-hitting melee abilities. Driven by a belief that conflict is essential to humanity’s progress, he’s committed to advancing his vision of the future—even if the agents of Overwatch disagree with his methods.&lt;/p&gt;&#xA;&lt;p&gt;Doomfist’s cybernetics make him a highly mobile, powerful frontline fighter. His primary attack is the Hand Cannon; this four-shot weapon fires projectiles from Doomfist’s knuckles one at a time or in a single blast. With his secondary attack, Rocket Punch, he charges forward and delivers a devastating blow, knocking back any opponent it connects with and dealing extra damage if the enemy is hurled into a wall.&lt;/p&gt;&#xA;&lt;p&gt;Seismic Slam smashes into a targeted area, knocking opponents toward him so he can deal further damage. His Rising Uppercut tosses enemies high into the air, while his passive ability, The Best Defense…, grants him shields every time he uses one of his abilities against an opponent. Lastly, his ultimate ability, Meteor Strike, causes him to leap high and drop into a targeted area, dealing massive amounts of damage.&lt;/p&gt;&#xA;&lt;p&gt;To learn more about Doomfist, &lt;a href=&#34;https://playoverwatch.com/heroes/doomfist/&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Loot Box Updates&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We always want the experience of opening a loot box to feel exciting and rewarding, and in our latest patch, we’re working to improve that experience in two key ways. First, we’re drastically reducing the amount of duplicates you will receive when opening loot boxes. Second, to compensate for this reduction of duplicate items, we’re also increasing the overall amount of credits you will receive from loot boxes. On average, you should be earning just as many credits, if not slightly more, from loot boxes as you did prior to these changes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;New Highlight Options&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Our highlights system has received several major updates:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The game will continue to automatically generate highlights for you based on your recent gameplay. These auto-generated highlights—now categorized as “Today’s Top 5”—will be surfaced on a daily basis and persist for a full 24 hours (or until the game client is patched, whichever happens first).&lt;/li&gt;&#xA;&lt;li&gt;Players can now generate their own highlights! The ability to capture 12 seconds of your own gameplay has been added to the game, and can be bound to a single button of your choice (or a button per highlight slot) in the Options menu under “Request Highlight.” These player-generated highlights will be saved under a new section called “Recently Captured” and will persist until the game client is patched. Players can have up to 36 recently-captured highlights stored at one time.&lt;/li&gt;&#xA;&lt;li&gt;With the above, players can now record any of their “Top 5” or “Recently Captured” highlights, exporting them as a video file to their gaming platform’s designated media library (on console) or directory (on PC). On PC, players will also have the option to select the quality at which these highlights are exported, supporting up to 4K for Windows 8 or higher operating systems, and up to 1080p on Windows 7.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;To learn more about this feature, check out our recent developer update: &lt;a href=&#34;https://youtu.be/OkYJlPMdWNA&#34;&gt;https://youtu.be/OkYJlPMdWNA&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2&gt;GENERAL&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Adjusted the respawn timing to limit defensive stalling strategies when the offensive team has a clear advantage and plays aggressively&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Custom Games and Game Browser&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Clarified the text on the “Flag Carrier” options under the Capture the Flag settings for Custom Games&lt;/li&gt;&#xA;&lt;li&gt;Removed the “Projectile Speed” and “Projectile Gravity” options for heroes who do not have projectile weapons&lt;/li&gt;&#xA;&lt;li&gt;Minimum movement speed has been changed to 50% (formerly 10%)&lt;/li&gt;&#xA;&lt;li&gt;Players can no longer select Roadhog during Limited 1v1 matches&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;User Interface&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Added ability to create customized reticles&#xA;&#x9;&lt;ul&gt;&#xA;&lt;li&gt;Reticle options can be found under the “Controls” tab in the “Options” menu (click the “Advanced” expander under the “Reticle” heading)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;The name of Mercy&#39;s “Stethoscope” spray has been changed to “Heartbeat”&lt;/li&gt;&#xA;&lt;li&gt;Statistics gathered from 6v6 Elimination matches will now be added to statistics in the Career Profile&lt;/li&gt;&#xA;&lt;li&gt;Tie games will no longer be included in the win percentage calculation that’s listed under the Player Profile&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2&gt;HERO UPDATES&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;D.Va&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Defense Matrix&#xA;&#x9;&lt;ul&gt;&#xA;&lt;li&gt;New sound effects and voice lines have been added, indicating when Defense Matrix has absorbed an enemy’s ultimate ability&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Genji&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deflect&#xA;&#x9;&lt;ul&gt;&#xA;&lt;li&gt;New sound effects and voice lines have been added, indicating when an enemy’s ultimate ability has been deflected&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;McCree&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Flashbang&#xA;&#x9;&lt;ul&gt;&#xA;&lt;li&gt;Stunned targets are now slowed heavily, meaning they&#39;re less likely to escape while stunned (especially while in the air)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Developer Comment:&lt;/strong&gt; This change will make McCree&#39;s Flashbang consistent against fast-moving targets like Genji or Lúcio.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reaper&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shadow Step&#xA;&#x9;&lt;ul&gt;&#xA;&lt;li&gt;Sound effect and VO distance has been reduced by 50%&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Developer Comment:&lt;/strong&gt; Even though Shadow Step wasn&#39;t intended to be used as a way for players to teleport right next to an enemy without their knowledge, the sound effects were audible from distances that made teleportation difficult from nearly anywhere. This change allows Reaper to be a bit more sneaky with his flanking options.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reinhardt&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rocket Hammer&#xA;&#x9;&lt;ul&gt;&#xA;&lt;li&gt;Swing speed increased by 10%&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Developer Comment:&lt;/strong&gt; In the last update, Reinhardt’s Rocket Hammer had an issue that allowed players with higher latency to swing faster. We fixed this bug, which suddenly made the swing speed feel too slow, so we’re compensating by increasing his standard swing speed. During this process, we also found and fixed a few bugs with Rocket Hammer’s hit registration. Overall, the hammer should feel much better.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Zarya&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Graviton Surge&#xA;&#x9;&lt;ul&gt;&#xA;&lt;li&gt;Now disables mobility abilities on all affected targets&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Developer Comment:&lt;/strong&gt; In the past, the abilities that allowed heroes to escape Zarya’s Graviton Surge felt fairly arbitrary. We’re cleaning this up and increasing Graviton Surge&#39;s overall power by rendering all movement abilities unusable when an enemy is trapped.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2&gt;BUG FIXES&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed an issue preventing “Best In Game” stats from being updated&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that could cause the user interface to incorrectly indicate that an enemy player has been hit when colliding with them&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that could allow projectiles that would normally pierce shields (i.e. Reinhardt’s Fire Strike) to pass through other surfaces&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that caused some players to lose audio during the match&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Competitive Play&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed a bug that caused players to get a leaver penalty during offseason matches, even after the in-game banner advised it was safe to leave the match&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Custom Games and Game Browser&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed a bug that prevented players from being added to a Custom Game with 12 Spectator slots&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug in Custom Game settings that prevented some heroes with Self Healing from having a Healing Dealt modifier&lt;/li&gt;&#xA;&lt;li&gt;Removed the Projectile Gravity slider from heroes who do not have abilities affected by gravity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Heroes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed a bug with D.Va’s Call Mech ability that allowed you to see her inside the mech before entering it&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that could cause eliminations from Junkrat’s Total Mayhem to be mislabeled in the kill feed&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that would cause Junkrat to use his Ultimate Callout when he is unable to use his Ultimate&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that allowed Roadhog’s Chain Hook to latch on to Orisa’s Supercharger&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that allowed Sombra to take damage after activating her Translocator&lt;/li&gt;&#xA;&lt;li&gt;The sound effects on Reinhardt&#39;s Bloodhardt, Blackhardt, and Wujing skins have been updated to reflect the use of an axe instead of a hammer&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug preventing Lucio from receiving the full speed boost when traveling backwards during a Wall Ride&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that occasionally prevented Torbjörn from building and upgrading his turret&lt;/li&gt;&#xA;&lt;li&gt;Fixed multiple hit registration bugs in Reinhardt’s Rocket Hammer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Maps&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed a bug on Eichenwalde that prevented Soldier 76 from placing his Biotic Field in certain locations of Point A&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that caused AI-controlled players to perpetually move toward the objective on the Gardens point in Oasis&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that prevented Training Bots from facing the right direction and returning to their original location after being moved by player interactions on the Practice Range&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug with that was causing unusual camera angles for Highlight Intros on Route 66&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that could cause D.Va to fall through the floor while boosting into the ground in a specific area on Volskaya Industries&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</content>
+    <link href="https://playoverwatch.com/en-us/game/patch-notes/pc/"></link>
     <author>
-      <name>Josh Engen</name>
+      <name>Overwatch PC Team</name>
     </author>
   </entry>
   <entry>
-    <title>[ALL] Overwatch Patch Notes – June 20, 2017</title>
-    <updated>2017-06-20T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-06-20:/forums/en/overwatch/topic/20756815859</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Hero Updates User Interface Updates Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20756815859"></link>
+    <title>Overwatch Patch Notes - June 27, 2017</title>
+    <updated>2017-06-27T00:00:00-07:00</updated>
+    <id>tag:playoverwatch.com,2017-06-27:/en-us/game/patch-notes/pc/</id>
+    <content type="html">&lt;p&gt;A new patch is now live on Windows PC. Read below to learn more about the latest changes.&lt;/p&gt;&#xA;&lt;p&gt;To share your feedback, please post in the &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813879/&#34;&gt;General Discussion&lt;/a&gt; forum.&lt;br/&gt;&#xA;For a list of known issues, visit our &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813881/&#34;&gt;Bug Report&lt;/a&gt; forum.&lt;br/&gt;&#xA;For troubleshooting assistance, visit our &lt;a href=&#34;https://us.battle.net/forums/en/overwatch/22813880/&#34;&gt;Technical Support&lt;/a&gt; forum.&lt;/p&gt;&#xA;&lt;p&gt;Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date.&lt;/p&gt;&#xA;&lt;h2&gt;BUG FIXES&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Heroes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed a bug that prevented Pharah’s “I am the rocket queen” voice line from playing correctly&lt;/li&gt;&#xA;&lt;li&gt;Fixed a bug that allowed Orisa’s ultimate to charge while her Supercharger was deployed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</content>
+    <link href="https://playoverwatch.com/en-us/game/patch-notes/pc/"></link>
     <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – June 6, 2017</title>
-    <updated>2017-06-06T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-06-06:/forums/en/overwatch/topic/20755696020</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES General Fixed several bugs that allowed players to reach unintended locations on multiple maps Fixed a bug that caused players to fall from moving platforms while dancing Fixed a crash that would occur when rendering fog for players with certain hardware User Interface Fixed a bug that caused the “Oni” and “Law” player icons to appear locked even after being unlocked Fixed an issue that allowed blocked players to send Custom Game invites</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20755696020"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – May 23, 2017</title>
-    <updated>2017-05-23T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-05-23:/forums/en/overwatch/topic/20755036537</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Hero Updates User Interface Updates Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20755036537"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – April 27, 2017</title>
-    <updated>2017-04-27T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-04-27:/forums/en/overwatch/topic/20754436365</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. GENERAL General Added a slider for aim smoothing. This can be found under the “Controls” tab in the “Options menu. Click “Advanced” under the “Controller” heading Developer Comments: By default, aim smoothing/acceleration is set to the same value that players are used to (full smoothing, low acceleration), but as you drag the slider toward 0, you&#39;ll experience less smoothing (higher acceleration). Once the value hits 0, smoothing will be entirely disabled (instant acceleration). Players can now select a new Aim Technique: Linear Ramp. This can be found under the “Controls” tab in the “Options menu, along with the Dual-Zone and Exponential Ramp option. Click “Advanced” under the “Controller” heading Developer Comments:This technique, along with disabled aim smoothing, will cause your crosshair to rotate proportionally with the angle that the stick is deflected. The effect is multiplied based on your sensitivity settings. Competitive Play On Assault and Assault/Escort Maps, teams now need to capture at least 33% of the objective before the tie-breaking system is activated Developer Comments: When the new tie-breaking system was implemented on April 11, 2017, teams only needed to capture 1% to trigger the system. This occasionally resulted in confusing situations when games would end without a lot of information about how the point was captured, due to the brief capture time. To alleviate this problem, we’re requiring that teams progress past 33% before the tie-breaking system begins tracking progress. If neither team manages to cross 33%, the match will end in a draw. If you’d like to know more, click here. BUG FIXES General Fixed a crash that could occur during the end-of-round screen Arcade Fixed a bug that prevented the payload from showing damage until after the escort phase in the Overwatch Uprising brawl Fixed a bug that allowed players to get under the payload using certain heroes’ movement abilities in the Overwatch Uprising brawl [PC] Fixed a bug that caused the payload’s health bar to interfere with the scoreboard, forcing players to hold down the spacebar to view the scoreboard in the Overwatch Uprising brawl Fixed a bug that caused Genji’s “You’ve rescued me again, Dr. Ziegler” voice line to play after being resurrected in the Overwatch Uprising brawl, regardless of which hero performed the resurrection Fixed an issue causing the chat window to block the ‘refresh’ button when the Overwatch Uprising leaderboards were open [PS4] The “Handle With Care” Achievement now correctly states the payload must remain above 80% health [PS4/XB1] The Overwatch Uprising scorecard now correctly tracks stats from Sombra’s Hack [PS4/XB1] The Overwatch Uprising scorecard now correctly tracks Ana’s healing stats Custom Games and Game Browser Fixed a bug that prevented the ‘Start Game Mode’ button from appearing when creating a Capture the Flag or Elimination game Heroes Fixed a bug that gave Genji’s Dragonblade ability a slightly increased swing speed while at a higher latency. Dragonblade’s default swing speed has been slightly increased to compensate Fixed a bug that prevented Genji’s Dragonblade ability from registering hits correctly Fixed a bug to prevent hit effects from being inflicted on D.Va’s human form while piloting the mech [PS4/XB1] Fixed a bug causing D.Va’s hair to appear inflexible during her Selfie highlight intro when her Palanquin skin was equipped [PS4/XB1] Fixed a bug causing the ice on Pharah’s Frostbite skin to stretch when her Flair emote was activated [PS4/XB1] Fixed a bug causing textures to flicker during Roadhog’s Feast highlight intro [PS4/XB1] Fixed a bug causing Soldier: 76’s cape to clip during the Push-Ups emote when his Strike Commander Morrison, Daredevil: 76, or Stunt Rider: 76 skin was equipped Maps Fixed a bug causing glass that has been shattered by an explosion to be colored black</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20754436365"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – April 17, 2017</title>
-    <updated>2017-04-17T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-04-17:/forums/en/overwatch/topic/20754225379</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES General Fixed an issue that caused the game client to crash when Overwatch was launched Arcade Fixed a bug preventing the Null Sector bots from spawning during the payload escort phase of the Overwatch Uprising brawl The Overwatch Uprising 2017 player icon will now unlock when you log into the event Firing shots while standing on the payload in Overwatch Uprising will no longer cause accuracy issues for your hero Fixed an issue preventing players from placing turrets on moving platforms (i.e. the payload) The Overwatch Uprising scorecard now correctly tracks stats from Sombra’s Hack The Overwatch Uprising scorecard now correctly tracks Ana’s healing stats The Overwatch Uprising scorecard now correctly tracks D.Va’s enemy eliminations Competitive Play Fixed an issue that could cause inaccurate results when breaking ties based on capture percentage on Assault and Assault/Escort maps Heroes Fixed an issue that allowed players to move freely when being hit by Mei’s Blizzard or Endothermic Blaster Fixed a bug causing D.Va’s hair to be rigid in the Selfie highlight intro when her Palanquin skin is equipped Fixed a bug causing Soldier: 76’s cape to clip during the Push-Ups emote when his Strike Commander Morrison, Daredevil: 76, or Stunt Rider: 76 skin was equipped Fixed a bug causing the ice on Pharah’s Frostbite skin to stretch when her Flair emote was activated</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20754225379"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – April 11, 2017</title>
-    <updated>2017-04-11T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-04-11:/forums/en/overwatch/topic/20753818008</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Hero Updates Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20753818008"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – March 28, 2017</title>
-    <updated>2017-03-28T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-03-28:/forums/en/overwatch/topic/20753775700</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. BUG FIXES General Fixed a bug that prevented the Damage Amplified stat from appearing in the scoreboard at the end of a game Heroes Fixed a bug to prevent Orisa from deploying her Supercharger inside of the payload Fixed a bug that prevented Sombra’s “BOOP” voice line from playing Orisa’s movement now slows slightly while firing in midair Developer Comments: Much like D.Va’s Fusion Cannons, Orisa’s Fusion Driver is intended to slow her movement while she is firing. However, unlike D.Va, there was an issue that prevented this slow from working while firing from the air.</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20753775700"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – March 21, 2017</title>
-    <updated>2017-03-21T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-03-21:/forums/en/overwatch/topic/20753508356</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Updates Hero Updates Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20753508356"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – March 8, 2017</title>
-    <updated>2017-03-08T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-03-08:/forums/en/overwatch/topic/20753436342</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that changes marked as [Console Only] have already been implemented on PC in a previous patch. GENERAL Arcade [Console Only] 1v1 Mystery Duel game mode is now available in the Arcade Custom Games Players can no longer gain EXP from skirmishes in custom games AFK detection has been added to skirmishes in custom games</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20753436342"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – March 3, 2017</title>
-    <updated>2017-03-03T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-03-03:/forums/en/overwatch/topic/20753626069</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. HERO UPDATES: General The total damage reduction that a hero can receive while buffed (e.g. from Ana&#39;s Nano Boost and Orisa&#39;s Fortify) has been capped at 50% (formerly 70%) Bastion Ironclad Bastion now takes 20% less damage while in Configuration: Sentry or Tank (formerly 35%) Developer Comments: After introducing the new Ironclad passive ability in the last patch, Bastion felt a little too difficult to deal with. This reduction maintains his survivability while he’s transformed, but he shouldn’t feel so overbearing to enemies. Zarya Particle Barrier No longer protects Zarya from knockback Projected Barrier No longer protects allies from knockback Developer Comments: This change is actually reverting an attempted bug fix from a previous patch. Now, Zarya’s barriers no longer protect players who are hit by a knockback effect that pierces the shield. This change does not affect knockback abilities that occur outside the barriers. For example, if Zarya has a barrier on herself and is hit by one of Pharah’s concussive blasts, she won’t be affected, because the barrier blocked the effect. However, if Winston uses his ultimate and starts to swing at Zarya, it will now knock her back even if a protective barrier is active, since melee attacks pierce barriers. BUG FIXES Arcade Fixed an issue preventing heroes in 1v1 Mystery Duel from being shuffled correctly Competitive Fixed an issue preventing players from loading the Season 1 and 2 leaderboards Heroes Fixed an issue preventing D.Va’s Defense Matrix from properly blocking enemy fire that has passed through another enemy hero Fixed an issue preventing Winston’s hitbox from lining up with his pose while crouched</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20753626069"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – February 28, 2017</title>
-    <updated>2017-02-28T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-02-28:/forums/en/overwatch/topic/20753535162</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights Hero Updates Competitive Play Map Balance Changes Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20753535162"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – February 8, 2017</title>
-    <updated>2017-02-08T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-02-08:/forums/en/overwatch/topic/20753236961</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. BUG FIXES: General Fixed an issue that prevented the Year of the Rooster version of Lijang Tower from being playable in Quick Play and Competitive Play</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20753236961"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – January 31, 2017</title>
-    <updated>2017-01-31T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-01-31:/forums/en/overwatch/topic/20753275781</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: General Fixed a bug that allowed the flag to get stuck outside the standard gameplay boundaries in Capture the Rooster Fixed a bug that allowed Competitive Matches to continue indefinitely Fixed a bug that allowed Tracer and Mei to reach unintended locations outside the standard gameplay boundaries on several maps Fixed a bug preventing Reinhardt’s shield from displaying cracks at low health when the Wujing skin was equipped</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20753275781"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – January 24, 2017</title>
-    <updated>2017-01-24T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-01-24:/forums/en/overwatch/topic/20752795395</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Updates Hero Balance Updates Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20752795395"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – January 12, 2017</title>
-    <updated>2017-01-12T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-01-12:/forums/en/overwatch/topic/20752529816</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. PATCH HIGHLIGHTS New Feature: Blizzard Checkout Purchasing Loot Boxes has never been easier. Our streamlined system gives players access more payment options from directly within the Overwatch client. GENERAL UPDATES General Decreased the volume of passing cars on the Oasis background in the Hero Gallery BUG FIXES Heroes Fixed a bug that was allowing Mercy to resurrect players that had fallen off the map to their death Maps Fixed a bug to prevent the garden point on Oasis from being contested/captured from the second-floor walkway above it Fixed a bug that allowed Sombra to reach unintended locations on several maps</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20752529816"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – January 3, 2017</title>
-    <updated>2017-01-03T00:00:00Z</updated>
-    <id>tag:us.battle.net,2017-01-03:/forums/en/overwatch/topic/20752488691</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. PATCH HIGHLIGHTS New Control Map: Oasis Oasis is one of the world&#39;s most advanced cities, a shining jewel rising from the Arabian Desert. A monument to human ingenuity and invention, researchers and academics from around the region came together to found a city dedicated to scientific progress without restraints. The city and its inhabitants are governed by the Ministries, a collection of brilliant minds who possess many secrets, which have attracted the interest of powerful organizations from around the world.</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20752488691"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – December 20, 2016</title>
-    <updated>2016-12-20T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-12-20:/forums/en/overwatch/topic/20752466918</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: General Mouse 4 no longer controls backwards menu navigation, preventing conflicts with other functions that might be bound to that button Fixed a bug preventing audio from mixing correctly on the main menu screen Competitive Play Fixed a bug that sometimes allowed Symmetra to place Teleporters and Shield Generators inside her team’s spawn room in a competitive match Heroes Fixed a bug that allowed Sombra to permanently hack a health pack</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20752466918"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – December 13, 2016</title>
-    <updated>2016-12-13T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-12-13:/forums/en/overwatch/topic/20752545497</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Updates Hero Balance Updates Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20752545497"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – November 30, 2016</title>
-    <updated>2016-11-30T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-11-30:/forums/en/overwatch/topic/20752217167</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: Arcade Fixed a bug that prevented Ana from being selected in 1v1 matches Heroes Fixed a bug that allowed Mercy to receive Ultimate charge when using her Cadueus Staff to increase teammates’ damage when they’re not damaging enemies Fixed a bug preventing Reinhardt from deactivating his Barrier Field after being hacked by Sombra Fixed a bug preventing Sombra’s Hack from cancelling Soldier: 76’s Sprint ability Sombra no longer receives credit toward her on-fire meter when her EMP ultimate hits Symmetra’s turrets When multiple Sombras attempt to hack a health pack, the player that initialized the hack first will now control it Fixed a bug preventing Sombra from seeing practice bots, whose health has fallen below 50%, through the walls on the Practice Range Fixed a bug preventing Sombra’s reticle from consistently expanding while firing her machine pistol</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20752217167"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – November 16, 2016</title>
-    <updated>2016-11-16T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-11-16:/forums/en/overwatch/topic/20752215318</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: General Fixed an issue which prevented players from saving their Graphics Quality settings when attempting to use the “Epic” preference (Options &gt; Video) Fixed a bug that allowed healers to gain Ultimate charge more quickly than intended</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20752215318"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – November 15, 2016</title>
-    <updated>2016-11-15T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-11-15:/forums/en/overwatch/topic/20752015856</id>
-    <content type="html">A new patch is now live on Windows PC, PlayStation 4, and Xbox One. Read below to learn about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Updates Hero Balance Updates User Interface Updates Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20752015856"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – October 20, 2016</title>
-    <updated>2016-10-20T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-10-20:/forums/en/overwatch/topic/20749777650</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: Maps Fixed a bug that caused players to get stuck on the loading screen when entering Ilios and Lijiang Tower</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20749777650"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – October 19, 2016</title>
-    <updated>2016-10-19T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-10-19:/forums/en/overwatch/topic/20749856850</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: General Fixed an issue causing the default Overwatch spray to override a player’s chosen spray when watching a Play of the Game or Highlight Fixed an issue causing players to frequently disconnect while viewing Highlights Fixed a bug preventing the appropriate music from playing after a loss on the Junkenstein&#39;s Revenge Brawl Gameplay Fixed a bug causing multiple issues when displaying data on the leaderboards Heroes Fixed an issue preventing Ana’s Nano Boost callouts from being heard by the enemy team Fixed a bug preventing players from receiving credit toward the Healing Done commendation when healing D.Va’s mech Fixed a graphical issue that was preventing the liquid in Mei’s Endothermic Blaster from appearing Fixed a bug causing Reinhardt’s Charge to unexpectedly stop when crossing certain thresholds (e.g. when exiting a dropship) Increased the volume of Roadhog’s “Want some candy” voice line Map Fixed a bug on Eichenwalde that caused some textures to stretch across the map for some players</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20749856850"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ALL] Overwatch Patch Notes – October 11, 2016</title>
-    <updated>2016-10-11T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-10-11:/forums/en/overwatch/topic/20749875377</id>
-    <content type="html">A new patch is now live. Read below to learn about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. JUMP TO SECTION: Patch Highlights General Updates Hero Balance Updates User Interface Updates Bug Fixes</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20749875377"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – September 30, 2016</title>
-    <updated>2016-09-30T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-09-30:/forums/en/overwatch/topic/20749277515</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: Fixed an issue that was preventing some players from being able to rejoin a match after being disconnected Slightly extended the amount of time that players have to rejoin an in-progress match when disconnected</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20749277515"></link>
-    <author>
-      <name>Josh Engen</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[PC] Overwatch Patch Notes – September 23, 2016</title>
-    <updated>2016-09-23T00:00:00Z</updated>
-    <id>tag:us.battle.net,2016-09-23:/forums/en/overwatch/topic/20749355673</id>
-    <content type="html">A new patch is now live on Windows PC. Read below to learn more about the latest changes. To share your feedback, please post in the General Discussion forum. For a list of known issues, visit our Bug Report forum. For troubleshooting assistance, visit our Technical Support forum. Please note that these changes will be rolled into a larger patch for PlayStation 4 and Xbox One at a later date. BUG FIXES: Fixed an issue that was incorrectly displaying a top 500 icon for certain players, even though they had not yet broken into the top 500</content>
-    <link href="https://us.battle.net/forums/en/overwatch/topic/20749355673"></link>
-    <author>
-      <name>Josh Engen</name>
+      <name>Overwatch PC Team</name>
     </author>
   </entry>
 </feed>
