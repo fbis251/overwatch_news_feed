@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Overwatch PC Updates</title>
   <id>https://playoverwatch.com/en-us/game/patch-notes/pc/</id>
-  <updated>2019-01-28T10:02:21-08:00</updated>
+  <updated>2019-01-28T11:02:18-08:00</updated>
   <subtitle>Patch notes and updates for Overwatch</subtitle>
   <link href="https://playoverwatch.com/en-us/game/patch-notes/pc/"></link>
   <author>
     <name>Blizzard</name>
   </author>
-  <entry>
-    <title>Patch 1.32.1.1</title>
-    <updated>2019-01-25T00:00:00-08:00</updated>
-    <id>tag:playoverwatch.com,2019-01-25:/en-us/game/patch-notes/pc/</id>
-    <content type="html">&lt;h1&gt;Overwatch Retail Patch Notes – January 25, 2019&lt;/h1&gt;&#xA;&lt;p&gt;A new patch is now live on Windows PC. Read below to learn more about the latest changes.&lt;/p&gt;&#xA;&lt;p&gt;To share your feedback, please post in the &lt;a href=&#34;https://us.forums.blizzard.com/en/overwatch/c/general-discussion&#34; target=&#34;_blank&#34;&gt;General Discussion&lt;/a&gt; forum&lt;br/&gt;&#xA;For a list of known issues, visit our &lt;a href=&#34;https://us.forums.blizzard.com/en/overwatch/c/bug-report&#34; target=&#34;_blank&#34;&gt;Bug Report&lt;/a&gt; forum.&lt;br/&gt;&#xA;For troubleshooting assistance, visit our &lt;a href=&#34;https://us.forums.blizzard.com/en/overwatch/c/technical-support&#34;&gt;Technical Support&lt;/a&gt; forum.&lt;/p&gt;&#xA;&lt;h2&gt;BUG FIXES&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed a bug that prevented some players from receiving the Captured and Delivery Interruption reward sprays after completing the achievement requirements&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Developer Comments:&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; Players who have successfully earned the achievement will receive the reward sprays immediately next time they log in.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[CHINA] Fixed a bug that prevented some players from receiving the Captured and Delivery Interruption reward sprays after completing the achievement requirements&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</content>
-    <link href="https://playoverwatch.com/en-us/game/patch-notes/pc/#patch-54256"></link>
-    <author>
-      <name>Overwatch PC Team</name>
-    </author>
-  </entry>
   <entry>
     <title>Patch 1.32.1.1</title>
     <updated>2019-01-24T00:00:00-08:00</updated>
